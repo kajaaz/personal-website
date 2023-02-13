@@ -60,28 +60,27 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">Karolina Gorna.</h2>;
+  const three = <h3 className="big-heading">I build blockchain security.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
+        I’m a security software engineer specializing in public blockchains layers two at{' '}
+        <a href="https://donjon.ledger.com/" target="_blank" rel="noreferrer">
+          Ledger
         </a>
-        .
+        . Previously, I had the pleasure to work at Blockchain Partner by KPMG, and to be the
+        president of KRYPTOSPHERE France.
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="https://drive.google.com/file/d/1g4D4z6vFEp1ye4SerlmmU0eDwipVGSOL/view"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Check the Cybersecurity for Blockchains and Cryptos 2022 study that I ve co-writen.
     </a>
   );
 

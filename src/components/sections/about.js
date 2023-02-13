@@ -135,30 +135,38 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Karolina, I am based in Paris, France, and I enjoy science and
+              innovations. My interest in the blockchain ecosystem started back in 2017 when I have
+              attended a TEDxIHEParis speech on the the possibilities of this technology. On one
+              heand, once enrolled in my Master of Science, I have got involved in the biggest
+              student society specialized in blockchain in France,{' '}
+              <a href="https://kryptosphere.org/en/">KRYPTOSPHERE</a>. I have learnt there the
+              basics of blockchain and cryptos, participated and organized hackathons and events,
+              and espacially met beautiful and passionate people. The most remarquable events were
+              the organization of the 2020 and 2021 editions of the NASA Space Apps Challenge, as
+              the Head of the Paris location, and my engagement in a one-year research group on the
+              role of the blockchain in sustainable supply chain for the Hyperledger Global Forum.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              On the other hand, I have built a strong interest for cybersecurity issues through
+              these years. I have academically specialized in the security of distributed systems,
+              obtaining in 2022 the title of Information Systems Security Expert, ISSE, issued by
+              the National Security Agency, ANSSI, in addition of my Engineering Diploma.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Thus, combining my knownledge on blockchain and security seemed natural, especially as
+              this field that is still largely unexplored. I started by analyzing the sector and had
+              the chance to co-write{' '}
+              <a href="https://drive.google.com/file/d/1g4D4z6vFEp1ye4SerlmmU0eDwipVGSOL/view">
+                a study
+              </a>
+              with the brilliant Alexandre Stachtchenko and Vincent Maret on the state of the art of
+              the crypto audit market, the techniques used to secure blockchain infra and code, and
+              its future. The results, showing a very large lack of experts in this domain, pushed
+              me to invest myself technically in order to contribute to the security of the web3
+              ecosystem in general.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -173,7 +181,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/GORNA-Karolina_photo.jpeg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}

@@ -1,12 +1,11 @@
 ---
 date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+title: 'Software Security Engineer'
+company: 'Ledger'
+location: 'Paris, France'
+range: 'October 2022 - Present'
+url: 'https://www.ledger.com/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Do research on the security of public blockchains layers two (optimistic and validity rollups)
+- Reviewing internal blockchain projects

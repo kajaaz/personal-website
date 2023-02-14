@@ -143,16 +143,24 @@ const About = () => {
               <a href="https://kryptosphere.org/en/">KRYPTOSPHERE</a>. I have learnt there the
               basics of blockchain and cryptos, participated and organized hackathons and events,
               and espacially met beautiful and passionate people. The most remarquable events were
-              the organization of the 2020 and 2021 editions of the NASA Space Apps Challenge, as
-              the Head of the Paris location, and my engagement in a one-year research group on the
-              role of the blockchain in sustainable supply chain for the Hyperledger Global Forum.
+              the organization of the 2020 and 2021 editions of the{' '}
+              <a href="https://www.telecom-sudparis.eu/en/about-us/karolina-gorna-in-the-realm-of-spatial-data/">
+                NASA Space Apps Challenge
+              </a>
+              , as the Head of the Paris location, and my engagement in a one-year research group on
+              the role of the blockchain in sustainable supply chain for the{' '}
+              <a href="https://hgf2021.sched.com/event/j3dc">Hyperledger Global Forum</a>.
             </p>
 
             <p>
               On the other hand, I have built a strong interest for cybersecurity issues through
               these years. I have academically specialized in the security of distributed systems,
-              obtaining in 2022 the title of Information Systems Security Expert, ISSE, issued by
-              the National Security Agency, ANSSI, in addition of my Engineering Diploma.
+              obtaining in 2022 the title of{' '}
+              <a href="https://www.ssi.gouv.fr/administration/formations/titre-essi/">
+                Information Systems Security Expert
+              </a>
+              , ISSE, issued by the National Security Agency, ANSSI, in addition of my Engineering
+              Diploma.
             </p>
 
             <p>
@@ -160,7 +168,7 @@ const About = () => {
               this field that is still largely unexplored. I started by analyzing the sector and had
               the chance to co-write{' '}
               <a href="https://drive.google.com/file/d/1g4D4z6vFEp1ye4SerlmmU0eDwipVGSOL/view">
-                a study
+                a study on Cybersecurity of Blockchains and Cryptos,
               </a>
               with the brilliant Alexandre Stachtchenko and Vincent Maret on the state of the art of
               the crypto audit market, the techniques used to secure blockchain infra and code, and
@@ -181,7 +189,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/GORNA-Karolina_photo.jpeg"
+              src="../../images/GORNA-Karolina_photo.jpg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
